@@ -41,6 +41,6 @@ ___
 |       **[Gabriel Patrício](https://github.com/Gabrieltp087/)**                                                                                |
 |<a href="https://twitter.com/bieltpatricio"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/bieltpatricio/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/gabriel.patricio.12/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/gabriel-patricio-32677b15b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brennogf)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabrieltp087)
  
 ⭐️ from [@Gabrieltp087](https://github.com/Gabrieltp087)
