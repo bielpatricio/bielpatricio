@@ -6,13 +6,6 @@ ___
   <img src="https://scontent.fjpa2-1.fna.fbcdn.net/v/t1.0-9/51753165_2467630999975114_6984778805223096320_o.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_eui2=AeGODAzOSsKH4gqK1-TWelfQcFPH-KTDb-lwU8f4pMNv6QDs4bhevyrBdLMPgGdPA_bKpyEdrtZ9hADZd0jDAZMF&_nc_ohc=f3EBZZgdMlgAX_sRTRn&_nc_ht=scontent.fjpa2-1.fna&oh=01b744171d774ccc8bc56f1dcfa0f10a&oe=5F50602C" width="150" heigth="150">
 </p>
 
-<p align="center">
-<a href="https://github.com/SarahToscano%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=8" />
-</a>
-</p>
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
@@ -29,6 +22,14 @@ ___
 - Olhe meu curriculo lattes: http://lattes.cnpq.br/021033295704028
 
 ![Biel github stats](https://github-readme-stats.vercel.app/api?username=Gabrieltp087&show_icons=true&hide_border=true)
+
+
+<p align="center">
+<a href="https://github.com/Gabrieltp087
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=8" />
+</a>
+</p>
 
 ## :rocket: Tecnologias Utilizadas
 
