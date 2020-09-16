@@ -1,7 +1,5 @@
-<h2 align="center">Perfil</h2>
-
 <p align="center"; border-radius=50%>
-  <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/200.webp?cid=ecf05e47xcq2f4xvdt4w0a95tshsi66gpmsy5b92v3m6g9qg&rid=200.webp" width="150" heigth="150">
+  <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/200.webp?cid=ecf05e47xcq2f4xvdt4w0a95tshsi66gpmsy5b92v3m6g9qg&rid=200.webp" width="266" heigth="200">
 </p>
 
 <h3 align="center">
