@@ -1,9 +1,7 @@
 <h2 align="center">Perfil</h2>
 
-___
-
 <p align="center"; border-radius=50%>
-  <img src="https://camo.githubusercontent.com/7759c27352273c403efbf265f72c0974272f1441/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3239333234363239322f6f726967696e616c2e676966" width="150" heigth="150">
+  <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/200.webp?cid=ecf05e47xcq2f4xvdt4w0a95tshsi66gpmsy5b92v3m6g9qg&rid=200.webp" width="150" heigth="150">
 </p>
 
 <h3 align="center">
@@ -32,6 +30,15 @@ ___
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/brennogf)](https://github.com/brennogf) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/brennogf)](https://github.com/brennogf)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brennogf)](https://github.com/brennogf)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brennogf)](https://github.com/brennogf)
+
+### Linguagens mais usadas
+
+<p>
+<a href="https://github.com/Gabrieltp087
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=8" />
+</a>
+</p>
 
 ### Redes Sociais 👓
 
