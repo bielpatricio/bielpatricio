@@ -24,15 +24,6 @@ ___
 ![Biel github stats](https://github-readme-stats.vercel.app/api?username=Gabrieltp087&show_icons=true&hide_border=true)
 
 
-### Linguagens mais usadas
-
-<p>
-<a href="https://github.com/Gabrieltp087
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=8" />
-</a>
-</p>
-
 ## :rocket: Tecnologias Utilizadas
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brennogf)](https://github.com/brennogf) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/brennogf)](https://github.com/brennogf) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/brennogf)](https://github.com/brennogf) 
