@@ -8,7 +8,7 @@
 </h3>
 
 ## :information_source: Sobre
-  Olá meu nome é Gabriel Teixeira Patrício, estou no final do curso de Engenharia de Computação, particpei de projetos de pesquisa ligados a Hardware, HDL (Verilog) e Arduino, sou nível intermediario em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS. Trabalho como Analista de sistemas, trabalhando mais especificamente na área de Testes.
+  Olá meu nome é Gabriel Teixeira Patrício, sou formado no curso de Engenharia de Computação, particpei de projetos de pesquisa ligados a Hardware, HDL (Verilog) e Arduino, sou nível intermediario em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS. Atualmente trabalho como desenvolvedor de front-end.
   
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
 
