@@ -36,4 +36,4 @@ Hello, my name is Gabriel Teixeira Patrício, I am a Software Developer and I ha
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-⭐️ from [@Gabrieltp087](https://github.com/Gabrieltp087)
+⭐️ from [@bielpatricio](https://github.com/bielpatricio)
