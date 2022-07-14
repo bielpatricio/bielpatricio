@@ -3,48 +3,37 @@
 </p>
 
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
+  <span>email: </span>
+  <a href="mailto://gabrieltp087@gmail.com">gabrieltp087@gmail.com</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-patricio/">Linkedin</a>&nbsp;
 </h3>
 
-## :information_source: Sobre
-  Olá meu nome é Gabriel Teixeira Patrício, sou formado no curso de Engenharia de Computação, estudo front-end e back-end, usando tecnologias como Javascript, ReactJS, React Native, NODE JS, HTML e CSS. Atualmente trabalho como desenvolvedor de front-end.
-  
-🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
+<br>
 
-## :interrobang: Social
+# :information_source: Sobre
 
-- :e-mail: Fale comigo ; **[gabrieltp087@gmail.com](mailto://gabrieltp087@gmail.com)**
-- Olhe meu curriculo lattes: http://lattes.cnpq.br/021033295704028
+Hello, my name is Gabriel Teixeira Patrício, I am a Software Developer and I have a degree in Computer Engineering. I currently work as a front-end developer. In my free time I do small personal projects and Rocket Seat courses.
 
-![Biel github stats](https://github-readme-stats.vercel.app/api?username=Gabrieltp087&show_icons=true&hide_border=true)
+### 🎓 Formado em **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
 
+<br>
 
-## :rocket: Tecnologias Utilizadas
+# :rocket: Technologies Used
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087) 
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Gabrieltp087)](https://github.com/Gabrieltp087)
-
-### Linguagens mais usadas
-
-<p>
-<a href="https://github.com/Gabrieltp087
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieltp087&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltp087&theme=radical&layout=compact&langs_count=8" />
-</a>
-</p>
-
-### Redes Sociais 👓
-
-|  <a href="https://github.com/Gabrieltp087/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Gabriel Patrício](https://github.com/Gabrieltp087/)**                                                                                |
-|<a href="https://twitter.com/bieltpatricio"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/bieltpatricio/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/gabriel.patricio.12/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/gabriel-patricio-32677b15b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabrieltp087)
- 
 ⭐️ from [@Gabrieltp087](https://github.com/Gabrieltp087)
