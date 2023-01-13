@@ -12,7 +12,7 @@
 
 # :information_source: Sobre
 
-Hello, my name is Gabriel Teixeira Patrício, I am a Software engineer and I have a degree in Computer Engineering. I currently work as a full-stack developer. In my free time I do small personal projects and Rocket Seat courses.
+Hello, my name is Gabriel Teixeira Patrício, I am a Software Engineer and I have a degree in Computer Engineering. I currently work as a Full-Stack Developer. In my free time I do personal projects and RocketSeat courses.
 
 ### 🎓 Formado em **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
 
