@@ -21,18 +21,19 @@ Hello, my name is Gabriel Teixeira Patrício, I am a Software Engineer and I hav
 # :rocket: Technologies Used
 
 ### Development Technologies Most Used
+
+![React](https://img.shields.io/badge/React%20-f7f7f7.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native%20-212121.svg?logo=react&logoColor=%2361DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-2f74c0.svg?logo=typescript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
 ![Node JS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next%20JS%20-131313.svg?logo=next.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React%20-f7f7f7.svg?logo=react&logoColor=%2361DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native%20-212121.svg?logo=react&logoColor=%2361DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
 
 ### DevOps
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)&nbsp;
