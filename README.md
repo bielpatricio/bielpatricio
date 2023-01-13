@@ -12,7 +12,7 @@
 
 # :information_source: Sobre
 
-Hello, my name is Gabriel Teixeira Patrício, I am a Software Developer and I have a degree in Computer Engineering. I currently work as a front-end developer. In my free time I do small personal projects and Rocket Seat courses.
+Hello, my name is Gabriel Teixeira Patrício, I am a Software engineer and I have a degree in Computer Engineering. I currently work as a full-stack developer. In my free time I do small personal projects and Rocket Seat courses.
 
 ### 🎓 Formado em **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
 
@@ -20,20 +20,27 @@ Hello, my name is Gabriel Teixeira Patrício, I am a Software Developer and I ha
 
 # :rocket: Technologies Used
 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+### Development Technologies Most Used
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript%20-2f74c0.svg?logo=typescript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next%20JS%20-131313.svg?logo=next.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React%20-f7f7f7.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native%20-212121.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
+
+### DevOps
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2391e6.svg?logo=docker&logoColor=white)&nbsp;
+
+### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-ea4c1d.svg?logo=figma&logoColor=white)&nbsp;
 
 ⭐️ from [@bielpatricio](https://github.com/bielpatricio)
