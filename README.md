@@ -10,15 +10,16 @@
 
 <br>
 
-# :information_source: Sobre
+## :information_source: Sobre
 
-Hello, my name is Gabriel Teixeira Patrício, I am a Software Engineer and I have a degree in Computer Engineering. I currently work as a Full-Stack Developer. In my free time I do personal projects and RocketSeat courses.
+Hello, my name is Gabriel Teixeira Patrício, <br>
+I am a Software Engineer,<br>
+I currently work as a **Full Stack developer [@Refera](https://github.com/Refera-Tech)**.<br>
+In my free time I do personal projects and RocketSeat courses, you can check my repositories.<br>
+I have a degree in Computer Engineering at [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/).<br>
 
-### 🎓 Formado em **Engenharia da Computação - [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)**
 
-<br>
-
-# :rocket: Technologies Used
+## :rocket: Technologies Used
 
 ### Development Technologies Most Used
 
@@ -43,5 +44,6 @@ Hello, my name is Gabriel Teixeira Patrício, I am a Software Engineer and I hav
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-ea4c1d.svg?logo=figma&logoColor=white)&nbsp;
+
 
 ⭐️ from [@bielpatricio](https://github.com/bielpatricio)
