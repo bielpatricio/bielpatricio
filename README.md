@@ -1,5 +1,5 @@
 <p align="center"; border-radius=50%>
-  <img src="https://media0.giphy.com/media/26xBukhJ0i8KXADYc/200.webp?cid=ecf05e47xcq2f4xvdt4w0a95tshsi66gpmsy5b92v3m6g9qg&rid=200.webp" width="266" heigth="200">
+  <img src="https://media1.giphy.com/media/PTBVMsYIOB0SBP4MVe/200w.webp?cid=ecf05e47bsjtcz7cmuklqnq9n6zl8fztrl9gi47kscdtyipf&ep=v1_gifs_search&rid=200w.webp&ct=g" width="266" heigth="200">
 </p>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 
 <br>
 
-## :information_source: Sobre
+## :information_source: About me
 
 Hello, my name is Gabriel Teixeira Patrício, <br>
 I am a Software Engineer,<br>
@@ -21,29 +21,42 @@ I have a degree in Computer Engineering at [Universidade Federal da Paraíba (UF
 
 ## :rocket: Technologies Used
 
-### Development Technologies Most Used
+### Languages
 
-![React](https://img.shields.io/badge/React%20-f7f7f7.svg?logo=react&logoColor=%2361DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native%20-212121.svg?logo=react&logoColor=%2361DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript%20-2f74c0.svg?logo=typescript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
-![Node JS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next%20JS%20-131313.svg?logo=next.js&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### DevOps
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2391e6.svg?logo=docker&logoColor=white)&nbsp;
+### Frameworks, Platforms and Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
+
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
 
 ### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-ea4c1d.svg?logo=figma&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+### Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielpatricio&size_weight=0.5&count_weight=0.5)
 
 ⭐️ from [@bielpatricio](https://github.com/bielpatricio)
