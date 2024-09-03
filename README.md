@@ -12,9 +12,8 @@
 
 ## :information_source: About me
 
-Hello, my name is Gabriel Teixeira Patrício, <br>
-I am a Software Engineer,<br>
-I currently work as a **Full Stack developer [@Refera](https://github.com/Refera-Tech)**. Using ReactJS to web, React Native to Mobile and Django to back-end.<br>
+Hello, my name is Gabriel Patrício, I am a Software Engineer,<br>
+I currently work as a **Full Stack developer [@Refera](https://github.com/Refera-Tech)**. Using ReactJS, Next.JS to web, React Native to Mobile and Django to back-end.<br>
 In my free time I do personal projects and RocketSeat courses, you can check my repositories.<br>
 I have a degree in Computer Engineering at [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/).<br>
 
