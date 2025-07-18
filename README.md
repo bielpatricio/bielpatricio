@@ -17,7 +17,4 @@ I have a degree in Computer Engineering at [Universidade Federal da Paraíba (UF
 I am a **Senior Full Stack developer**.<br>
 I currently work building web and mobile applications, and automated testing.
 
-## Experiences
-.<br>
-
 ⭐️ from [@bielpatricio](https://github.com/bielpatricio)
